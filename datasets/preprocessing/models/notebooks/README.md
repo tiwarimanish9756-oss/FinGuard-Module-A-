@@ -1,3 +1,12 @@
-# Jupyter Notebooks
+# FinGuard AI - Module A
 
-This folder contains notebooks used for data analysis, experimentation and model training.
+## Module
+Stock Data and ML Models
+
+## Responsibilities
+- Stock market dataset collection
+- Data preprocessing
+- Feature engineering
+- Machine learning model development
+- Model evaluation
+- Stock prediction

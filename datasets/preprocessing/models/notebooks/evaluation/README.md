@@ -1,3 +1,12 @@
-# Model Evaluation
+# FinGuard AI - Module A
 
-This folder contains model evaluation results and performance metrics.
+## Module
+Stock Data and ML Models
+
+## Responsibilities
+- Stock market dataset collection
+- Data preprocessing
+- Feature engineering
+- Machine learning model development
+- Model evaluation
+- Stock prediction
